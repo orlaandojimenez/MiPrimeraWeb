@@ -1,0 +1,40 @@
+*{
+	font-family: 'Roboto', sans-serif;
+}
+
+div.listCircle{
+	margin-top: 1%;
+}
+
+h4.frameworks_title{
+	text-align: center;
+	font-size: 1.5em;
+	margin-top: 5%;
+}
+
+div.fab{
+	position: fixed;
+	z-index: 1;
+	bottom: 20px;
+	right: 20px;
+}
+
+span.fabIcon{
+	margin-top: 10px;
+}
+
+img.img_jobs{
+	width: 150px;
+	height: auto;
+	display: block;
+	margin: 0 auto;
+}
+
+h4.idolos_tittle{
+	text-align: center;
+}
+
+#map{
+	height: 50%;
+	margin-top: 10%;
+}
